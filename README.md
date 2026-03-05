@@ -57,18 +57,6 @@ Frameworks e tecnologias que já utilizei:
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pedr0xh&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pedr0xh&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🔥 Sequência de contribuições
 
 <p align="center">
