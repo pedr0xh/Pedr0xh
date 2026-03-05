@@ -39,8 +39,7 @@ Entre as ferramentas e tecnologias que já utilizei estão **Spring Boot** e **.
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pedr0xh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedr0xh&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Pedr0xh&theme=tokyonight"/>
 </p>
 
 ---
