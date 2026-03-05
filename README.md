@@ -1,8 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Pedro Henrique Daroda</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=30&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Backend+Developer;Java+%7C+Python+%7C+C%23;Always+learning+new+technologies" />
-</p>
 
 ---
 
